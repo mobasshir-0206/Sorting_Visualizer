@@ -34,8 +34,8 @@ A Java-based GUI application that **visually demonstrates popular sorting algori
 
 ## 🖼️ Screenshot
 
-![Sorting Visualizer Screenshot](<img width="1918" height="1017" alt="Screenshot 2025-08-07 183247" src="https://github.com/user-attachments/assets/69a46850-833e-4417-a470-228ed2e6172a" />
-)
+![Sorting Visualizer Screenshot](https://github.com/user-attachments/assets/69a46850-833e-4417-a470-228ed2e6172a)
+
 
 > 📝 *Save a screenshot of your running program and place it in a folder called `assets` in your repo. Name it `screenshot.png` for this to display correctly.*
 
